@@ -58,6 +58,7 @@ include('includes/navbar.php');
                      <th>By</th>
                       <th>Date&Time</th>
                       <th>Play Online or Download</th>
+                      <th></th>
                     </tr>
                   </thead>
                   <tbody>
